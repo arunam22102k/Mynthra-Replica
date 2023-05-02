@@ -16,11 +16,26 @@ Software requirements : Windows 7 or above
 
 ![2023-05-01 (7)](https://user-images.githubusercontent.com/131758223/235585053-aff755eb-c44a-47aa-b490-2b795f3f4a35.png)
 
+it is the Login Page, if the user wants to login he/she should provide his/her Mobile Number with Password.
+
+
+
 ![2023-05-01 (8)](https://user-images.githubusercontent.com/131758223/235585083-d814680f-82b5-4749-910f-302b474d10a9.png)
+
+if the user is not yet used this till now, he/she should provide some credentials, so that he/her go to the home page to shop.
+
+
 
 ![2023-05-01](https://user-images.githubusercontent.com/131758223/235584644-6ef44e33-99c4-4e92-9ec9-fa3eeade6c78.png)
 
+this is the userare going to after their login or signup.
+
+
+
 ![2023-05-01 (2)](https://user-images.githubusercontent.com/131758223/235584903-36f2803c-8587-4fe4-b338-f2fce70aee34.png)
+
+this is the mens page, mens related shopping cloths,shoes etc, would be available here and then user can their wished items to wishlist so they can view separatly, and also the user wants to buy means, the user needs to add that item to bag and then proceeds to order.
+
 
 ![2023-05-01 (4)](https://user-images.githubusercontent.com/131758223/235584939-dc57c302-8001-4d90-ab79-82b86e956e57.png)
 
